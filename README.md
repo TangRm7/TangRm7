@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TangRm7
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning the python
+- 📫 How to reach me tangrom77@gmail.com
