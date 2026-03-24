@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TangRm7
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning the python
+- 🖥️ I speak Python, C#
 - 📫 How to reach me tangrom77@gmail.com
